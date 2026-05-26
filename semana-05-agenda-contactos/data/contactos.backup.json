@@ -1,0 +1,79 @@
+[
+  {
+    "id": "C001",
+    "nombre": "Juan Perez",
+    "telefono": "72345678",
+    "email": "juan@gmail.com",
+    "direccion": "Av. 6 de Agosto"
+  },
+  {
+    "id": "C002",
+    "nombre": "Maria Lopez",
+    "telefono": "79876543",
+    "email": "maria@hotmail.com",
+    "direccion": "Zona Norte"
+  },
+  {
+    "id": "C003",
+    "nombre": "Pedro Quispe",
+    "telefono": "68112233",
+    "email": "",
+    "direccion": "Calle Cochabamba"
+  },
+  {
+    "id": "C004",
+    "nombre": "Ana Torres",
+    "telefono": "71234567",
+    "email": "ana@gmail.com",
+    "direccion": "Zona Central"
+  },
+  {
+    "id": "C005",
+    "nombre": "Luis Rojas",
+    "telefono": "73445566",
+    "email": "luis@gmail.com",
+    "direccion": "Av. Bush"
+  },
+  {
+    "id": "C006",
+    "nombre": "Rosa Flores",
+    "telefono": "78991234",
+    "email": "rosa@hotmail.com",
+    "direccion": "Zona Sud"
+  },
+  {
+    "id": "C007",
+    "nombre": "Carlos Vega",
+    "telefono": "74561234",
+    "email": "",
+    "direccion": "Av. America"
+  },
+  {
+    "id": "C008",
+    "nombre": "Silvia Lima",
+    "telefono": "70112233",
+    "email": "silvia@gmail.com",
+    "direccion": "Calle Aroma"
+  },
+  {
+    "id": "C009",
+    "nombre": "Diego Arce",
+    "telefono": "75667788",
+    "email": "diego@gmail.com",
+    "direccion": "Zona Este"
+  },
+  {
+    "id": "C010",
+    "nombre": "Patricia Choque",
+    "telefono": "71122334",
+    "email": "paty@hotmail.com",
+    "direccion": "Zona Oeste"
+  },
+  {
+    "id": "C001",
+    "nombre": "Mateo",
+    "telefono": "72308758",
+    "email": "mate11@gmail.com",
+    "direccion": "Vazquez lira oblitas"
+  }
+]

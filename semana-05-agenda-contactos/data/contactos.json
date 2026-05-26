@@ -68,5 +68,12 @@
     "telefono": "71122334",
     "email": "paty@hotmail.com",
     "direccion": "Zona Oeste"
+  },
+  {
+    "id": "C001",
+    "nombre": "Mateo",
+    "telefono": "72308758",
+    "email": "mate11@gmail.com",
+    "direccion": "Vazquez lira oblitas"
   }
 ]
