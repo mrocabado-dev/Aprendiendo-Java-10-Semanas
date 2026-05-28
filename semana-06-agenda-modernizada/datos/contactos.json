@@ -18,5 +18,10 @@
     "nombre": "David Cruz",
     "telefono": "72223344",
     "categoria": "Familia"
+  },
+  {
+    "nombre": "Mateo ",
+    "telefono": "72308758",
+    "categoria": "Amigos"
   }
 ]
