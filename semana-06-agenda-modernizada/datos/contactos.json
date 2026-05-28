@@ -1,0 +1,22 @@
+[
+  {
+    "nombre": "Ana Lopez",
+    "telefono": "76543210",
+    "categoria": "Amigos"
+  },
+  {
+    "nombre": "Carlos Rios",
+    "telefono": "71112233",
+    "categoria": "Trabajo"
+  },
+  {
+    "nombre": "Beatriz Vega",
+    "telefono": "68881234",
+    "categoria": "Trabajo"
+  },
+  {
+    "nombre": "David Cruz",
+    "telefono": "72223344",
+    "categoria": "Familia"
+  }
+]
