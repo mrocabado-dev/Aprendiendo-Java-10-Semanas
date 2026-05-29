@@ -1,4 +1,4 @@
-package com.organizacion.agenda;
+package com.organizacion.app;
 
 import org.springframework.boot.SpringApplication;
 
