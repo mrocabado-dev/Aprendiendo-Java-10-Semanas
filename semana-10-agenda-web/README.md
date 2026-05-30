@@ -1,29 +1,27 @@
-# Agenda Web con Vaadin
+# Agenda Web Completa
 
-Aplicacion web desarrollada con Java, Spring Boot y Vaadin.
+Aplicacion web desarrollada con Spring Boot y Vaadin.
 
-La aplicacion permite navegar entre vistas utilizando componentes Vaadin.
+## Funcionalidades
 
----
+- Gestion de contactos
+- Gestion de eventos
+- Persistencia JSON
+- Binder
+- Grid
+- DatePicker
+- Notification
+- Arquitectura por capas
+- Tests unitarios
 
 ## Tecnologias
 
 - Java 21
+- Maven
 - Spring Boot
 - Vaadin
-- Maven
-
----
-
-## Funcionalidades
-
-- vista principal
-- vista contactos
-- navegacion entre vistas
-- notification
-- componentes Vaadin
-
----
+- Gson
+- JUnit 5
 
 ## Ejecutar
 
@@ -31,37 +29,11 @@ La aplicacion permite navegar entre vistas utilizando componentes Vaadin.
 mvn spring-boot:run
 ```
 
-Luego abrir:
+## Ejecutar pruebas
 
-http://localhost:8080
-
----
-
-## Estructura
-
-```txt
-semana-07-agenda-web/
-│
-├── src/
-├── capturas/
-├── pom.xml
-├── README.md
-└── .gitignore
+```bash
+mvn test
 ```
-
----
-
-## Componentes usados
-
-- H1
-- H2
-- Paragraph
-- Button
-- Notification
-- VerticalLayout
-- @Route
-
----
 
 ## Autor
 
