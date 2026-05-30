@@ -1,0 +1,17 @@
+{
+  "frontendFolder": "/Users/mateo/Aprendiendo-Java-10-Semanas/semana-09-agenda-web/./src/main/frontend",
+  "themeFolder": "themes",
+  "themeResourceFolder": "/Users/mateo/Aprendiendo-Java-10-Semanas/semana-09-agenda-web/./src/main/frontend/generated/jar-resources",
+  "staticOutput": "/Users/mateo/Aprendiendo-Java-10-Semanas/semana-09-agenda-web/target/classes/META-INF/VAADIN/webapp/VAADIN/static",
+  "generatedFolder": "generated",
+  "statsOutput": "/Users/mateo/Aprendiendo-Java-10-Semanas/semana-09-agenda-web/target/classes/META-INF/VAADIN/config",
+  "frontendBundleOutput": "/Users/mateo/Aprendiendo-Java-10-Semanas/semana-09-agenda-web/target/classes/META-INF/VAADIN/webapp",
+  "devBundleOutput": "/Users/mateo/Aprendiendo-Java-10-Semanas/semana-09-agenda-web/target/dev-bundle/webapp",
+  "devBundleStatsOutput": "/Users/mateo/Aprendiendo-Java-10-Semanas/semana-09-agenda-web/target/dev-bundle/config",
+  "jarResourcesFolder": "/Users/mateo/Aprendiendo-Java-10-Semanas/semana-09-agenda-web/./src/main/frontend/generated/jar-resources",
+  "themeName": "",
+  "clientServiceWorkerSource": "/Users/mateo/Aprendiendo-Java-10-Semanas/semana-09-agenda-web/target/sw.ts",
+  "pwaEnabled": false,
+  "offlineEnabled": false,
+  "offlinePath": "'offline.html'"
+}
