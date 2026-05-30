@@ -1,10 +1,13 @@
 package com.organizacion.app.ui;
 
 import com.organizacion.agenda.views.ContactosView;
+import com.organizacion.agenda.views.EventosView;
 import com.organizacion.agenda.views.InicioView;
 import com.vaadin.flow.component.applayout.AppLayout;
 
 import com.vaadin.flow.component.html.H2;
+
+import com.organizacion.agenda.views.EventosView;
 
 import com.vaadin.flow.component.menubar.MenuBar;
 
@@ -44,6 +47,13 @@ public class MainLayout
                         ContactosView.class
                 )
         );
+
+        menu.addItem(
+        new RouterLink(
+                "Eventos",
+                EventosView.class
+        )
+);
 
         HorizontalLayout barra =
                 new HorizontalLayout(

@@ -5,6 +5,7 @@
 /Users/mateo/Aprendiendo-Java-10-Semanas/semana-10-agenda-web/src/main/java/com/organizacion/agenda/service/EventoService.java
 /Users/mateo/Aprendiendo-Java-10-Semanas/semana-10-agenda-web/src/main/java/com/organizacion/agenda/service/ManejadorJSON.java
 /Users/mateo/Aprendiendo-Java-10-Semanas/semana-10-agenda-web/src/main/java/com/organizacion/agenda/views/ContactosView.java
+/Users/mateo/Aprendiendo-Java-10-Semanas/semana-10-agenda-web/src/main/java/com/organizacion/agenda/views/EventosView.java
 /Users/mateo/Aprendiendo-Java-10-Semanas/semana-10-agenda-web/src/main/java/com/organizacion/agenda/views/InicioView.java
 /Users/mateo/Aprendiendo-Java-10-Semanas/semana-10-agenda-web/src/main/java/com/organizacion/app/ui/MainLayout.java
 /Users/mateo/Aprendiendo-Java-10-Semanas/semana-10-agenda-web/src/main/java/com/organizacion/app/ui/TarjetaContacto.java
