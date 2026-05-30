@@ -1,0 +1,17 @@
+[
+  {
+    "nombre": "Carlos Mamani",
+    "email": "carlos@correo.com",
+    "telefono": "79876543"
+  },
+  {
+    "nombre": "Ana Lopez",
+    "email": "ana@correo.com",
+    "telefono": "71234567"
+  },
+  {
+    "nombre": "Rocabado Vargas Cristian",
+    "email": "mateo@gmail.com",
+    "telefono": "72308758"
+  }
+]

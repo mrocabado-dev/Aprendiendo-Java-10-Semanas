@@ -1,8 +1,7 @@
 package com.organizacion.app.ui;
 
-import com.organizacion.app.views.ContactosView;
-import com.organizacion.app.views.InicioView;
-
+import com.organizacion.agenda.views.ContactosView;
+import com.organizacion.agenda.views.InicioView;
 import com.vaadin.flow.component.applayout.AppLayout;
 
 import com.vaadin.flow.component.html.H2;

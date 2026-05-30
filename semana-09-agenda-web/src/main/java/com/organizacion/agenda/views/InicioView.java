@@ -1,4 +1,4 @@
-package com.organizacion.app.views;
+package com.organizacion.agenda.views;
 
 import com.organizacion.app.ui.MainLayout;
 

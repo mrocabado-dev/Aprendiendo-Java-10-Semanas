@@ -1,82 +1,41 @@
-package com.organizacion.agenda.service;
+package com.organizacion.agenda.modelo;
 
-import com.google.gson.Gson;
+public class Contacto {
 
-import com.google.gson.GsonBuilder;
+    private String nombre;
+    private String email;
+    private String telefono;
 
-import com.google.gson.reflect.TypeToken;
-
-import com.organizacion.agenda.modelo.Contacto;
-
-import java.io.FileReader;
-
-import java.io.FileWriter;
-
-import java.lang.reflect.Type;
-
-import java.util.ArrayList;
-
-import java.util.List;
-
-public class ManejadorJSON {
-
-    private static final String RUTA =
-            "src/main/resources/datos/contactos.json";
-
-    private static final Gson gson =
-            new GsonBuilder()
-                    .setPrettyPrinting()
-                    .create();
-
-    public static List<Contacto> cargar() {
-
-        try (
-
-                FileReader reader =
-                        new FileReader(RUTA)
-
-        ) {
-
-            Type tipo =
-                    new TypeToken<
-                            ArrayList<Contacto>
-                            >() {}.getType();
-
-            List<Contacto> contactos =
-                    gson.fromJson(
-                            reader,
-                            tipo
-                    );
-
-            return contactos != null
-                    ? contactos
-                    : new ArrayList<>();
-
-        } catch (Exception e) {
-
-            return new ArrayList<>();
-        }
+    public Contacto() {
     }
 
-    public static void guardar(
-            List<Contacto> contactos
-    ) {
+    public Contacto(String nombre, String email, String telefono) {
+        this.nombre = nombre;
+        this.email = email;
+        this.telefono = telefono;
+    }
 
-        try (
+    public String getNombre() {
+        return nombre;
+    }
 
-                FileWriter writer =
-                        new FileWriter(RUTA)
+    public void setNombre(String nombre) {
+        this.nombre = nombre;
+    }
 
-        ) {
+    public String getEmail() {
+        return email;
+    }
 
-            gson.toJson(
-                    contactos,
-                    writer
-            );
+    public void setEmail(String email) {
+        this.email = email;
+    }
 
-        } catch (Exception e) {
+    public String getTelefono() {
+        return telefono;
+    }
 
-            e.printStackTrace();
-        }
+    public void setTelefono(String telefono) {
+        this.telefono = telefono;
     }
 }
